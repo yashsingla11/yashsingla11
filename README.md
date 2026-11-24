@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I am Yash Singla!
 
-<!--
-**yashsingla11/yashsingla11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.Tech Computer Science and Engineering Student at K.R. Mangalam University, Gurugram.
+- Currently learning Python, Linux Shell Scripting, and Git/GitHub workflows.
+- Interested in Software Development, Problem Solving, and Artificial Intelligence.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies |
+|---|---|
+| Languages | Python (Beginner), HTML, CSS |
+| Scripting | Bash / Shell Scripting |
+| Tools | Git, GitHub, VS Code, macOS Terminal |
+| Concepts | REST APIs, Markdown, Git Version Control |
+
+## Featured Projects
+
+- [CSE103 Lab — LAB 3](https://github.com/yashsingla11/cse103-lab-LAB3)
+
+  Git workflows, API interaction, and Markdown documentation.
+
+- [Personal Portfolio Website](https://github.com/yashsingla11/yash-portfolio)
+
+  Personal website developed using HTML and CSS.
+
+## Currently Working On
+- Semester 1 programming and technical lab assignments.
+- Improving Python programming and problem-solving skills.
+
+## Connect With Me
+- GitHub: [yashsingla11](https://github.com/yashsingla11)
+- Email: ysingla609@gmail.com
